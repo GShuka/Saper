@@ -1,0 +1,14 @@
+^C:\USERS\SHUKA\ONEDRIVE\РАБОЧИЙ СТОЛ\SAPPER\SAPPER\AUTHORIZATION.H
+"\bin\moc.exe"  "C:\Users\shuka\OneDrive\Рабочий стол\sapper\Sapper\authorization.h" -o ".\GeneratedFiles\Debug\moc_authorization.cpp"  -DUNICODE -DWIN32 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB "-I.\GeneratedFiles" "-I." "-I\include" "-I.\GeneratedFiles\Debug\." "-I\include\QtCore" "-I\include\QtGui"
+^C:\USERS\SHUKA\ONEDRIVE\РАБОЧИЙ СТОЛ\SAPPER\SAPPER\REGISTRATION.H
+"\bin\moc.exe"  "C:\Users\shuka\OneDrive\Рабочий стол\sapper\Sapper\registration.h" -o ".\GeneratedFiles\Debug\moc_registration.cpp"  -DUNICODE -DWIN32 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB "-I.\GeneratedFiles" "-I." "-I\include" "-I.\GeneratedFiles\Debug\." "-I\include\QtCore" "-I\include\QtGui"
+^C:\USERS\SHUKA\ONEDRIVE\РАБОЧИЙ СТОЛ\SAPPER\SAPPER\SAPPER.H
+"\bin\moc.exe"  "C:\Users\shuka\OneDrive\Рабочий стол\sapper\Sapper\sapper.h" -o ".\GeneratedFiles\Debug\moc_sapper.cpp"  -DUNICODE -DWIN32 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB "-I.\GeneratedFiles" "-I." "-I\include" "-I.\GeneratedFiles\Debug\." "-I\include\QtCore" "-I\include\QtGui"
+^C:\USERS\SHUKA\ONEDRIVE\РАБОЧИЙ СТОЛ\SAPPER\SAPPER\AUTHORIZATION.UI
+"\bin\uic.exe" -o ".\GeneratedFiles\ui_authorization.h" "C:\Users\shuka\OneDrive\Рабочий стол\sapper\Sapper\authorization.ui"
+^C:\USERS\SHUKA\ONEDRIVE\РАБОЧИЙ СТОЛ\SAPPER\SAPPER\REGISTRATION.UI
+"\bin\uic.exe" -o ".\GeneratedFiles\ui_registration.h" "C:\Users\shuka\OneDrive\Рабочий стол\sapper\Sapper\registration.ui"
+^C:\USERS\SHUKA\ONEDRIVE\РАБОЧИЙ СТОЛ\SAPPER\SAPPER\SAPPER.QRC
+"\bin\rcc.exe" -name "sapper" -no-compress "C:\Users\shuka\OneDrive\Рабочий стол\sapper\Sapper\sapper.qrc" -o .\GeneratedFiles\qrc_sapper.cpp
+^C:\USERS\SHUKA\ONEDRIVE\РАБОЧИЙ СТОЛ\SAPPER\SAPPER\SAPPER.UI
+"\bin\uic.exe" -o ".\GeneratedFiles\ui_sapper.h" "C:\Users\shuka\OneDrive\Рабочий стол\sapper\Sapper\sapper.ui"

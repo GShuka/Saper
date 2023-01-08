@@ -1,0 +1,55 @@
+QLabel#blackLine
+{
+	background-color: Black;
+}
+QPushButton#registration, QPushButton#login
+{
+	background-color: #5cb85c;
+    border-color: #4cae4c;
+	color: #fff;
+	border-style: outset;
+	border-width: 1px;
+	border-radius: 3px;
+	font-family: 'Arial', sans-serif;
+	font-size: 12px;
+}
+QPushButton#registration:pressed, QPushButton#login:pressed
+{
+	background-color: #449d44;
+	border-style: inset;
+}
+QPushButton#registration:hover, QPushButton#login:hover
+{
+	background-color: #50a350;
+}
+QPushButton#newGame, QPushButton#profile, QLabel#usernameLabel
+{
+	background: transparent;
+	color: #777777;
+	font-family: 'Arial', sans-serif;
+	font-size: 14px;
+}
+QPushButton#newGame:hover, QPushButton#profile:hover
+{
+	color: #fff;
+}
+QStackedWidget QPushButton
+{
+    border-color: #000;
+	border-style: outset;
+	border-width: 1px;
+	border-radius: 2px;
+	font-family: 'Arial', sans-serif;
+	font-size: 34px;
+    color: red;
+	background-color: #97b9e2;
+}
+QLabel#info, QLabel#whiteBg
+{
+	background: #fff;
+	padding: 10px;
+    border-color: #fff;
+	border-style: outset;
+	border-width: 1px;
+	border-radius: 8px;
+}
